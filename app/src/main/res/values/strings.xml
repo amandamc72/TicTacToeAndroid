@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_human">You go first</string>
+    <string name="first_player_one">Player one go first</string>
+    <string name="first_player_two">Player two go first</string>
+    <string name="turn_human">Your turn</string>
+    <string name="turn_computer">Android\'s turn</string>
+    <string name="turn_player_one">Player one\'s turn.</string>
+    <string name="turn_player_two">Player two\'s turn.</string>
+    <string name="result_tie">It\'s a tie!</string>
+    <string name="result_human_win">You won!</string>
+    <string name="result_android_win">Android won!</string>
+    <string name="result_player_one_wins">Player one wins!</string>
+    <string name="result_player_two_wins">Player two wins!</string>
+    <string name="info">Info</string>
+    <string name="human">Human:  </string>
+    <string name="player_one">Player One:  </string>
+    <string name="android">Android:  </string>
+    <string name="player_two">Player Two:  </string>
+    <string name="ties">Ties:  </string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="newgame_label">New Game</string>
+    <string name="exitgame_label">Exit Game</string>
+
+</resources>
