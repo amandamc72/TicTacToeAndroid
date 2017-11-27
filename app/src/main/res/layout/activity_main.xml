@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/playArea"
-        android:layout_marginLeft="13dp">
+        android:layout_centerHorizontal="true">
 
         <TableRow
             android:layout_width="fill_parent"
@@ -89,8 +89,6 @@
         android:text="@string/info"
         android:id="@+id/information"
         android:layout_below="@+id/playArea"
-        android:layout_alignLeft="@+id/playArea"
-        android:layout_alignStart="@+id/playArea"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:layout_marginRight="25dp"
